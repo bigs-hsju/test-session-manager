@@ -1,0 +1,16 @@
+[
+  {
+    "resultType": "api",
+    "name": "GET /api/v1/agencies/corporation-contracts",
+    "path": "modules/app/pay/src/main/kotlin/kr/or/bigs/pay/controller/agency/AgencyControllerV1.kt",
+    "description": "영업대행사 → 법인 → 계약 3단 계층 조회 API. agencyId/corporationId 파라미터에 따라 단계별 데이터 반환.",
+    "createdAt": "2026-02-09T16:12:18.063Z"
+  },
+  {
+    "resultType": "feature",
+    "name": "계약 수수료 영업대행사 수수료 합계 노출",
+    "path": "modules/app/pay/src/main/kotlin/kr/or/bigs/pay/application/contract/service/GetPgContractDetailUseCase.kt",
+    "description": "계약 상세/목록 조회 시 해당 계약에 매핑된 영업대행사의 수수료 합계를 함께 노출",
+    "createdAt": "2026-02-09T16:12:20.034Z"
+  }
+]

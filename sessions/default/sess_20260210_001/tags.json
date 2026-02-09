@@ -1,0 +1,35 @@
+{
+  "tags": [
+    "agency",
+    "corporation",
+    "contract",
+    "fee",
+    "querydsl",
+    "3-level-hierarchy",
+    "api"
+  ],
+  "keywords": [
+    "영업대행사",
+    "법인",
+    "계약",
+    "수수료",
+    "3단 조회",
+    "계층 조회"
+  ],
+  "category": "Backend Development",
+  "subcategory": "REST API",
+  "difficulty": "medium",
+  "importance": "high",
+  "technologies": [
+    "Kotlin",
+    "Spring Boot",
+    "JPA",
+    "Querydsl"
+  ],
+  "relatedFields": [
+    "agency-management",
+    "contract-management",
+    "settlement"
+  ],
+  "generatedAt": "2026-02-09T16:12:52.017Z"
+}

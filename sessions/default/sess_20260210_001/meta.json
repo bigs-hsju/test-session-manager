@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260210_001",
+  "name": "영업대행사 하위 법인 계약 3단 조회 API + 수수료 합계 노출",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "AgencyControllerV1에 영업대행사 → 법인 → 계약 3단 계층 조회 API 구현 및 계약 수수료 노출 시 영업대행사 수수료 합계 노출 기능 추가",
+  "summary": "영업대행사 하위 법인 계약 3단 조회 API 구현 및 계약 수수료 노출 시 영업대행사 수수료 합계 노출. 총 13개 파일 생성/수정, 커밋 2건 (fc1cdc803, 6631fae74).",
+  "created": "2026-02-09T16:12:01.040Z",
+  "updated": "2026-02-09T16:12:25.700Z",
+  "completed": "2026-02-09T16:12:25.700Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 25
+}
