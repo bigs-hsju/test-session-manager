@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260210_002",
+  "name": "Role Permission Preset 매핑 테이블 구현",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "사용자 생성 시 Role별 커스텀 권한 프리셋을 선택/저장하는 기능 구현. 별도 role_permission_preset 테이블 생성, Hexagonal 패턴 적용",
+  "summary": "Role Permission Preset 매핑 테이블 및 기능 구현 완료",
+  "created": "2026-02-10T01:33:35.099Z",
+  "updated": "2026-02-10T01:39:43.752Z",
+  "completed": "2026-02-10T01:39:43.752Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 369
+}

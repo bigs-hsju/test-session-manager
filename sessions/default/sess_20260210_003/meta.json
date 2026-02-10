@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260210_003",
+  "name": "역할 권한 프리셋 시스템 구현",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "RolePermissionPreset + RolePermissionPresetItem 테이블 생성, User.permissionIds 제거 및 프리셋 기반 권한 시스템으로 전환",
+  "summary": "RolePermissionPreset + RolePermissionPresetItem 시스템 구현 완료. User.permissionIds 제거 및 프리셋 기반 전환.",
+  "created": "2026-02-10T05:10:01.992Z",
+  "updated": "2026-02-10T05:21:02.269Z",
+  "completed": "2026-02-10T05:21:02.269Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 660
+}
