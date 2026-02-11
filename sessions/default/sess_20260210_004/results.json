@@ -1,0 +1,23 @@
+[
+  {
+    "resultType": "code",
+    "name": "Version A - TransactionCostSettlement 기반 통계 v2 API (8개 파일)",
+    "path": "modules/domain/src/main/kotlin/kr/or/bigs/pay/domain/settlement/query/SettlementStatisticsV2Query.kt",
+    "description": "Version A: TransactionCostSettlement 기반. 8개 파일 생성 (Query, Projection, Port, Adapter, Request, Response, Service, Controller). Endpoint: GET /api/v1/settlement-statistics-v2",
+    "createdAt": "2026-02-10T09:45:29.268Z"
+  },
+  {
+    "resultType": "code",
+    "name": "Version B - DepartmentClosing 기반 통계 v2 API (8개 파일)",
+    "path": "modules/domain/src/main/kotlin/kr/or/bigs/pay/domain/settlement/query/ClosingStatisticsV2Query.kt",
+    "description": "Version B: DepartmentClosing+Fee 기반. 8개 파일 생성 (Query, Projection, Port, Adapter, Request, Response, Service, Controller). Endpoint: GET /api/v1/closing-statistics-v2. 빌드 성공 확인.",
+    "createdAt": "2026-02-10T09:45:31.477Z"
+  },
+  {
+    "resultType": "document",
+    "name": "통계 v2 API 분석 및 설계 문서",
+    "path": ".claude/docs/domains/settlement-statistics-v2.md",
+    "description": "두 버전의 통계 v2 API 분석/설계 문서. 화면 구조, 데이터 소스 매핑, 장단점 비교, 응답 구조 포함.",
+    "createdAt": "2026-02-10T09:45:33.378Z"
+  }
+]

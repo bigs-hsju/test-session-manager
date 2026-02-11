@@ -1,0 +1,26 @@
+{
+  "relatedSessions": [
+    {
+      "sessionId": "sess_20260210_002",
+      "user": "default",
+      "similarity": 0.22,
+      "commonTags": [
+        "permission",
+        "hexagonal"
+      ],
+      "title": "Role Permission Preset 매핑 테이블 구현",
+      "summary": "Role Permission Preset 매핑 테이블 및 기능 구현 완료"
+    },
+    {
+      "sessionId": "sess_20260210_001",
+      "user": "default",
+      "similarity": 0.008,
+      "commonTags": [],
+      "title": "영업대행사 하위 법인 계약 3단 조회 API + 수수료 합계 노출",
+      "summary": "영업대행사 하위 법인 계약 3단 조회 API 구현 및 계약 수수료 노출 시 영업대행사 수수료 합계 노출. 총 13개 파일 생성/수정, 커밋 2건 (fc1cdc803, 6631fae74)."
+    }
+  ],
+  "suggestedCategories": [
+    "Backend Development"
+  ]
+}

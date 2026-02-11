@@ -1,0 +1,58 @@
+[
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2Query",
+    "path": "modules/domain/src/main/kotlin/kr/or/bigs/pay/domain/settlement/query/ClosingStatisticsV2Query.kt",
+    "description": "통계 V2 공통 쿼리 sealed interface (Search - yearMonth, tenantId)",
+    "createdAt": "2026-02-10T13:09:05.028Z"
+  },
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2Projection",
+    "path": "modules/domain/src/main/kotlin/kr/or/bigs/pay/domain/settlement/model/query/ClosingStatisticsV2Projection.kt",
+    "description": "V1/V2 공통 Projection (transactionDate, tenantId, corporationId, contractId, salesAmount, settlementAmount, pgSourceFee)",
+    "createdAt": "2026-02-10T13:09:06.791Z"
+  },
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2ByCostAdapter",
+    "path": "modules/infra/src/main/kotlin/kr/or/bigs/pay/infra/settlement/adapter/ClosingStatisticsV2ByCostAdapter.kt",
+    "description": "V1 어댑터 - TransactionCostSettlement 기반 Querydsl 조회",
+    "createdAt": "2026-02-10T13:09:08.635Z"
+  },
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2ByClosingAdapter",
+    "path": "modules/infra/src/main/kotlin/kr/or/bigs/pay/infra/settlement/adapter/ClosingStatisticsV2ByClosingAdapter.kt",
+    "description": "V2 어댑터 - DepartmentClosingFee 기반 Querydsl 조회",
+    "createdAt": "2026-02-10T13:09:09.636Z"
+  },
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2ByCostQueryService",
+    "path": "modules/app/pay/src/main/kotlin/kr/or/bigs/pay/application/settlement/service/ClosingStatisticsV2ByCostQueryService.kt",
+    "description": "V1 서비스 - 테넌트>영업대행사>법인>PG 계층 구조 빌드, 영업대행사 수수료 동적 계산",
+    "createdAt": "2026-02-10T13:09:11.630Z"
+  },
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2ByClosingQueryService",
+    "path": "modules/app/pay/src/main/kotlin/kr/or/bigs/pay/application/settlement/service/ClosingStatisticsV2ByClosingQueryService.kt",
+    "description": "V2 서비스 - 마감 수수료 기반 계층 구조 빌드, 영업대행사 수수료 동적 계산",
+    "createdAt": "2026-02-10T13:09:13.303Z"
+  },
+  {
+    "resultType": "code",
+    "name": "ClosingStatisticsV2ControllerV1",
+    "path": "modules/app/pay/src/main/kotlin/kr/or/bigs/pay/controller/settlement/ClosingStatisticsV2ControllerV1.kt",
+    "description": "REST Controller - /api/v1/closing-statistics/v2/cost (V1), /api/v1/closing-statistics/v2/closing (V2)",
+    "createdAt": "2026-02-10T13:09:15.010Z"
+  },
+  {
+    "resultType": "documentation",
+    "name": "settlement.md 통계 V2 섹션 추가",
+    "path": ".claude/docs/domains/settlement.md",
+    "description": "섹션 9. 정산 마감 통계 V2 API 문서 - 계층 구조, 수수료 계산, V1/V2 차이점",
+    "createdAt": "2026-02-10T13:09:17.158Z"
+  }
+]

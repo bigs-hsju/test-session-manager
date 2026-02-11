@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "closing-statistics-v2",
+    "settlement",
+    "agency-fee",
+    "querydsl",
+    "hexagonal-architecture",
+    "bulk-query"
+  ],
+  "keywords": [
+    "정산 마감 통계",
+    "영업대행사 수수료",
+    "TransactionCostSettlement",
+    "DepartmentClosingFee",
+    "AgencyPolicyItem"
+  ],
+  "category": "Feature Development",
+  "subcategory": "Settlement Statistics API",
+  "difficulty": "high",
+  "importance": "high",
+  "technologies": [
+    "Kotlin",
+    "Spring Boot",
+    "Querydsl",
+    "JPA"
+  ],
+  "relatedFields": [],
+  "generatedAt": "2026-02-10T13:09:58.393Z"
+}

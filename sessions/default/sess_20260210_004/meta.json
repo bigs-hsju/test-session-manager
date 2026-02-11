@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260210_004",
+  "name": "통계 v2 API 개발 (2가지 버전)",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "통계 v2 페이지용 API 개발. 테넌트→영업대행사→법인→PG 계층별 매출액/정산금/수수료 일별 통계. Version A: TransactionCostSettlement 기반, Version B: DepartmentClosing+DepartmentClosingFee 기반",
+  "summary": "통계 v2 API 2가지 버전 구현 완료. Version A (TransactionCostSettlement 기반, 8파일), Version B (DepartmentClosing+Fee 기반, 8파일, 빌드 성공). 분석 문서 작성 완료.",
+  "created": "2026-02-10T09:13:24.874Z",
+  "updated": "2026-02-10T09:45:38.805Z",
+  "completed": "2026-02-10T09:45:38.805Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 1934
+}

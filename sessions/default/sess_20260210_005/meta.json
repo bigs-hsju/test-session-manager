@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260210_005",
+  "name": "통계 v2 API 개발 - 정산 마감 통계",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "정산 마감 통계 v2 API를 두 가지 버전으로 개발: 1) TransactionCostSettlement 기반, 2) DepartmentClosing/ClosingFee 기반. 영업대행사 AgencyPolicyItem 수수료를 동적으로 계산하여 제공.",
+  "summary": "정산 마감 통계 V2 API 두 가지 버전 구현 완료 - V1(TransactionCostSettlement), V2(DepartmentClosingFee)",
+  "created": "2026-02-10T12:54:16.213Z",
+  "updated": "2026-02-10T13:09:23.501Z",
+  "completed": "2026-02-10T13:09:23.501Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 907
+}

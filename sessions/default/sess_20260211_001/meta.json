@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260211_001",
+  "name": "Git Push 자동화 테스트",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "git auto push가 정상적으로 동작하는지 확인하기 위한 테스트 세션",
+  "summary": "Git auto push 테스트 완료",
+  "created": "2026-02-11T13:14:48.052Z",
+  "updated": "2026-02-11T13:16:44.700Z",
+  "completed": "2026-02-11T13:16:44.700Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 117
+}
