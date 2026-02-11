@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260211_002",
+  "name": "Git Auto Push 재테스트",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "GitHubAuthService 연결 후 auto push 동작 확인",
+  "summary": "GitHubAuthService 연결 수정 후 auto push 테스트",
+  "created": "2026-02-11T13:21:08.940Z",
+  "updated": "2026-02-11T13:21:19.388Z",
+  "completed": "2026-02-11T13:21:19.388Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 10
+}

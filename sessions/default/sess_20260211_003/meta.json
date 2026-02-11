@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260211_003",
+  "name": "Git Auto Push 최종 테스트",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "MCP 서버 재시작 후 auto push 동작 확인",
+  "summary": "MCP 재시작 후 auto push 테스트",
+  "created": "2026-02-11T13:22:14.204Z",
+  "updated": "2026-02-11T13:22:21.003Z",
+  "completed": "2026-02-11T13:22:21.003Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 7
+}
