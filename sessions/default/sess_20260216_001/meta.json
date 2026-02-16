@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260216_001",
+  "name": "RmPolicy isTarget 리팩토링 + Closure 영향 범위 변경",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "RmPolicy의 isTarget을 department 계층 기반 bulk 조회 + forceApply 로직으로 리팩토링하고, closure 생성 로직을 영향 범위 기반으로 변경",
+  "summary": "RmPolicy isTarget을 department 계층 기반 bulk 조회 + forceApply 로직으로 리팩토링 완료. Closure 생성 로직을 영향 범위 기반으로 변경 완료. 컴파일 성공 확인.",
+  "created": "2026-02-16T13:31:16.076Z",
+  "updated": "2026-02-16T13:43:35.007Z",
+  "completed": "2026-02-16T13:43:35.007Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 739
+}

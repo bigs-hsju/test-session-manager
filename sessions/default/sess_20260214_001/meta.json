@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260214_001",
+  "name": "ExcelUploadManager 구현",
+  "type": "claude_code",
+  "status": "created",
+  "priority": 3,
+  "prompt": "ExcelUploadManager 주석 기반 구현 - ExcelParser를 활용한 통합 엑셀 업로드 매니저 구현",
+  "summary": "",
+  "created": "2026-02-14T01:52:38.670Z",
+  "updated": "2026-02-14T01:52:38.670Z",
+  "completed": null,
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": null
+}
