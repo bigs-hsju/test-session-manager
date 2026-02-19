@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260219_001",
+  "name": "JWT HttpOnly Cookie 전환",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "Authorization 헤더 기반 JWT 토큰 전달을 HttpOnly Cookie 방식으로 완전 전환. CookieProperties/CookieHelper 신규 생성, JwtAuthenticationFilter/ConcurrentLoginFilter/AuthControllerV1/UserControllerV1/SignInUserResponse/SecurityConfig 수정.",
+  "summary": "JWT 토큰 전달 방식을 Authorization 헤더에서 HttpOnly Cookie로 완전 전환 완료. CookieProperties/CookieHelper 신규 생성, JwtAuthenticationFilter/ConcurrentLoginFilter/AuthControllerV1/StoreLoginControllerV1/UserControllerV1/SignInUserResponse/SecurityConfig/application.yml 수정.",
+  "created": "2026-02-19T02:22:17.526Z",
+  "updated": "2026-02-19T02:33:29.808Z",
+  "completed": "2026-02-19T02:33:29.808Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 672
+}
