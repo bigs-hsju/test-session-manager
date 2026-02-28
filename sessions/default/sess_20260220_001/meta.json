@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260220_001",
+  "name": "AgencyService 리팩토링 - 도메인 서비스 분리 및 Port 패턴 적용",
+  "type": "claude_code",
+  "status": "created",
+  "priority": 3,
+  "prompt": "AgencyService를 AgencyDomainService + AgencyContractMappingService로 분리하고 퍼사드 패턴 적용, JPA Repository를 Output Port로 추상화",
+  "summary": "",
+  "created": "2026-02-20T00:10:22.807Z",
+  "updated": "2026-02-20T00:10:22.807Z",
+  "completed": null,
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260228_001",
+  "name": "Dynamic CORS Configuration",
+  "type": "claude_code",
+  "status": "completed",
+  "priority": 3,
+  "prompt": "멀티테넌트 동적 CORS 설정 구현 - TenantQueryRepository에 existsByDomain 추가, DynamicCorsConfigurationSource 생성, TenantCorsEventHandler 생성, SecurityConfig 수정",
+  "summary": "동적 CORS 설정 구현 완료 - 4개 파일 변경/생성, 빌드 성공",
+  "created": "2026-02-28T09:04:04.166Z",
+  "updated": "2026-02-28T09:08:17.892Z",
+  "completed": "2026-02-28T09:08:17.892Z",
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": 254
+}

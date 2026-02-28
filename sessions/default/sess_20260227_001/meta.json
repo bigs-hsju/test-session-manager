@@ -1,0 +1,15 @@
+{
+  "id": "sess_20260227_001",
+  "name": "RmPolicy 계층 모달 UI 개선 + 생성 모달 scope 확장",
+  "type": "claude_code",
+  "status": "created",
+  "priority": 3,
+  "prompt": "계층 조회 모달 카드 디자인 개선, 생성 모달 4타입 지원, 백엔드 departmentId nullable 변경",
+  "summary": "",
+  "created": "2026-02-27T10:46:19.575Z",
+  "updated": "2026-02-27T10:46:19.575Z",
+  "completed": null,
+  "author": "default",
+  "estimatedTime": null,
+  "actualTime": null
+}
